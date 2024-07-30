@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jv-an\\OneDrive\\\u00C1rea de Trabalho\\on work\\Curso-CSharp\\SalesWebMvc\\SalesWebMvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E33DA2-F29D-40EF-8E69-DE004DFA720B}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\jv-an\\onedrive\\\u00E1rea de trabalho\\on work\\curso-csharp\\saleswebmvc\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E33DA2-F29D-40EF-8E69-DE004DFA720B}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jv-an\\OneDrive\\\u00C1rea de Trabalho\\on work\\Curso-CSharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jv-an\\OneDrive\\\u00C1rea de Trabalho\\on work\\Curso-CSharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:06:01.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
